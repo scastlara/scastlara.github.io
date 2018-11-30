@@ -1,0 +1,219 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+.page-header {
+	padding: 20px 30px;
+	background-color: #1973af;
+	background-image: linear-gradient(120deg, #1973af, #1973af);
+	line-height: 1;
+	margin-top: 55px;
+}
+
+.main-content {
+	padding: 50px 25px;
+	font-size: 14px !important;
+	width: 80% !important;
+	max-width: 80% !important;
+}
+
+
+.misc-content {
+	padding: 50px 25px;
+	padding-left: 6%;
+}
+
+body {
+	font-size: 12px;
+}
+
+.ed-img {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin-right: 10px;
+}
+
+.ed-title {
+	color: #1973af;
+
+}
+
+.project-img {
+	width: 100%;
+	height: 100%;
+}
+
+.project-img-div {
+	border-color: #ddd;
+	border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.project-img-div:hover {
+	background-color: #1973af;
+}
+
+.project-img-div:focus {
+	box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+}
+
+@media only screen and (max-width: 768px) {
+	.project-img-div {
+		text-align: center;
+	    width: 25% !important;
+	    height: 25% !important;
+	    margin-bottom: 25px !important;
+	    min-width: 200px !important;
+	}
+	.project-img {
+		width: 100px;
+	}
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 180px;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: #1973af;
+}
+.btn {
+  min-width: 160px;
+}
+
+.project-tagline a {
+	color: white;
+	font-weight: bold;
+}
+
+.cicon {
+	vertical-align: middle;
+	margin-right: 10px;
+	opacity: 0.8;
+	width: 25px;
+	height: 25px;
+}
+
+.project {
+	display: inline-block;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.project-link-div {
+	display: inline-block;
+	margin-top: 20px;
+	float: right;
+}
+
+.project-link {
+	text-align: left;
+}
+
+
+.plang-icon {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .page-header {
+        /*margin-top: 170px;*/
+    }
+	.page-header .btn {
+		text-align: left;
+	}
+    .navbar a {
+        float: none !important;
+
+    }
+}
+
+
+.pub-title {
+	display: inline-block;
+	font-size: 12px;
+	color: #1973af;
+    margin-bottom: 6px;
+	
+}
+
+.pub-date {
+	display: block;
+	font-size: 10px;
+}
+
+.pub-img {
+	width: 100%;
+}
+
+.publication {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.publication:hover .pub-title {
+    color: white;
+}
+
+.publication:hover {
+	background-color: #1973af;
+	color: white !important;
+}
+
+
+
+.pub-link { color: #606c71; }
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #1973af;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  border-radius: 0 !important;
+}
+
+.navbar-link {
+  color: white !important;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar-nav a:hover {
+    color: rgba(255,255,255,0.8) !important;
+    text-decoration: none;
+    background-color: rgba(255,255,255,0.2) !important;
+    border-color: rgba(255,255,255,0.3) !important;
+}
+
+.navbar {
+    min-height: 60px;
+    border-color: #1973af !important;
+}
+
+.ptitle {
+    padding-left: 25px;
+}
+
+.left-navbar {
+	float: left;
+	margin-left: 20px;
+}
+
+#orcid-img:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
