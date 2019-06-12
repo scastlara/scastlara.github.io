@@ -87,6 +87,14 @@ body {
   min-width: 160px;
 }
 
+.btn:focus {
+	color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+
+}
+
 .project-tagline a {
 	color: white;
 	font-weight: bold;
@@ -179,8 +187,13 @@ body {
 	font-weight: bold;
 }
 
+.pub-link img {
+	opacity: 0.8;
+}
+
+
 .pub-link:hover img {
-	opacity: 0.7;
+	opacity: 1;
 }
 
 .pub-link { color: #606c71; }
@@ -234,3 +247,43 @@ body {
 .pub-data-container { height: 130px; display: flex; align-items: center; }
 
 .pub-link .col-sm-3 { text-align: center; }
+
+
+.small-btn {
+	display: inline-block;
+	border: 1px solid #1973af;
+	color: #1973af;
+	text-align: center;
+	border-radius: .6rem;
+	margin-top: 5px !important;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	padding-right: .8rem;
+	padding-left: .8rem;
+}
+
+.small-btn:hover {
+	background-color: #1973af;
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.project-link-div a:hover {
+	text-decoration: none;
+}
+
+.project-link-div a:focus {
+	text-decoration: none;
+	outline: none;
+}
+
+.project-link-div a:focus .small-btn {
+	-webkit-box-shadow: 0px 0px 10px 0px #1973af;
+	-moz-box-shadow: 0px 0px 10px 0px #1973af;
+	box-shadow: 0px 0px 10px 0px #1973af;
+}
+
