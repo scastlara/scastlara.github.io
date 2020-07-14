@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josep F. Abril | Sergio Castillo&#39;s site</title>
-    <link>scastlara.github.io/author/josep-f.-abril/</link>
-      <atom:link href="scastlara.github.io/author/josep-f.-abril/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/josep-f.-abril/</link>
+      <atom:link href="/author/josep-f.-abril/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep F. Abril</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/scastlara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Josep F. Abril</title>
-      <link>scastlara.github.io/author/josep-f.-abril/</link>
+      <link>/author/josep-f.-abril/</link>
     </image>
     
     <item>
       <title>PlanExp: intuitive integration of complex RNA-seq datasets with planarian omics resources </title>
-      <link>scastlara.github.io/publication/planexp/</link>
+      <link>/publication/planexp/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>scastlara.github.io/publication/planexp/</guid>
+      <guid>/publication/planexp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PPaxe: easy extraction of protein occurrence and interactions from the scientific literature</title>
-      <link>scastlara.github.io/publication/ppaxe/</link>
+      <link>/publication/ppaxe/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>scastlara.github.io/publication/ppaxe/</guid>
+      <guid>/publication/ppaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PlanNET: homology-based predicted interactome for multiple planarian transcriptomes</title>
-      <link>scastlara.github.io/publication/plannet/</link>
+      <link>/publication/plannet/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>scastlara.github.io/publication/plannet/</guid>
+      <guid>/publication/plannet/</guid>
       <description></description>
     </item>
     

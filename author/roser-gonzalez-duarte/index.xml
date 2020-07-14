@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roser Gonzàlez-Duarte | Sergio Castillo&#39;s site</title>
-    <link>scastlara.github.io/author/roser-gonzalez-duarte/</link>
-      <atom:link href="scastlara.github.io/author/roser-gonzalez-duarte/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/roser-gonzalez-duarte/</link>
+      <atom:link href="/author/roser-gonzalez-duarte/index.xml" rel="self" type="application/rss+xml" />
     <description>Roser Gonzàlez-Duarte</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/scastlara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Roser Gonzàlez-Duarte</title>
-      <link>scastlara.github.io/author/roser-gonzalez-duarte/</link>
+      <link>/author/roser-gonzalez-duarte/</link>
     </image>
     
     <item>
       <title>RPGeNet v2.0: expanding the universe of retinal disease gene interactions network</title>
-      <link>scastlara.github.io/publication/rpgenet2/</link>
+      <link>/publication/rpgenet2/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>scastlara.github.io/publication/rpgenet2/</guid>
+      <guid>/publication/rpgenet2/</guid>
       <description></description>
     </item>
     
